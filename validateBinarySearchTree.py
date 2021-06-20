@@ -1,3 +1,12 @@
+"""
+Given a binary tree root, return whether it's a binary search tree. A binary tree node is a binary search tree if :
+
+All nodes on its left subtree are smaller than node.val
+All nodes on its right subtree are bigger than node.val
+All nodes hold the these properties.
+"""
+
+
 # class Tree:
 #     def __init__(self, val, left=None, right=None):
 #         self.val = val
