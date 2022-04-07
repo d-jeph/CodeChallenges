@@ -14,4 +14,4 @@ def get_largest_non_adj_sum(array):
 
 
 print(get_largest_non_adj_sum([2, 4, 6, 8]))
-print(get_largest_non_adj_sum([5, 1, 1, 5]))
+# print(get_largest_non_adj_sum([5, 1, 1, 5]))
