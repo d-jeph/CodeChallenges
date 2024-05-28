@@ -1,8 +1,8 @@
 # Coding Challenges
 
-I use this repo to tackle coding challenges for personal practice purposes. Feel free to reuse or contribute
+Repository to track my programming code challenges, mainly in Python. Feel free to reuse or contribute
 
-# ßResources
+# Resources
 
 [neetcode](https://neetcode.io/roadmap)
 [leetcode](https://leetcode.com/)
